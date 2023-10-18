@@ -7,7 +7,7 @@
 
       Which one will it be for you today?<br/>
       Welcome<br/>
-      Deployment done by Aruna team<br/>
+      Deployment done by Aruna team <br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
       <a href="#" onclick="playRoshambo('scissors')"> scissors </a>
